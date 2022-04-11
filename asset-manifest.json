@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "https://rirwin1995.github.io/csb-3j1fyj/static/css/main.0ac43a83.chunk.css",
+    "main.js": "https://rirwin1995.github.io/csb-3j1fyj/static/js/main.57c872c8.chunk.js",
+    "main.js.map": "https://rirwin1995.github.io/csb-3j1fyj/static/js/main.57c872c8.chunk.js.map",
+    "runtime-main.js": "https://rirwin1995.github.io/csb-3j1fyj/static/js/runtime-main.ddf70a08.js",
+    "runtime-main.js.map": "https://rirwin1995.github.io/csb-3j1fyj/static/js/runtime-main.ddf70a08.js.map",
+    "static/css/2.cbedb215.chunk.css": "https://rirwin1995.github.io/csb-3j1fyj/static/css/2.cbedb215.chunk.css",
+    "static/js/2.d3b793d9.chunk.js": "https://rirwin1995.github.io/csb-3j1fyj/static/js/2.d3b793d9.chunk.js",
+    "static/js/2.d3b793d9.chunk.js.map": "https://rirwin1995.github.io/csb-3j1fyj/static/js/2.d3b793d9.chunk.js.map",
+    "index.html": "https://rirwin1995.github.io/csb-3j1fyj/index.html",
+    "static/css/2.cbedb215.chunk.css.map": "https://rirwin1995.github.io/csb-3j1fyj/static/css/2.cbedb215.chunk.css.map",
+    "static/css/main.0ac43a83.chunk.css.map": "https://rirwin1995.github.io/csb-3j1fyj/static/css/main.0ac43a83.chunk.css.map",
+    "static/js/2.d3b793d9.chunk.js.LICENSE.txt": "https://rirwin1995.github.io/csb-3j1fyj/static/js/2.d3b793d9.chunk.js.LICENSE.txt",
+    "static/media/Logo.46a39c79.png": "https://rirwin1995.github.io/csb-3j1fyj/static/media/Logo.46a39c79.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ddf70a08.js",
+    "static/css/2.cbedb215.chunk.css",
+    "static/js/2.d3b793d9.chunk.js",
+    "static/css/main.0ac43a83.chunk.css",
+    "static/js/main.57c872c8.chunk.js"
+  ]
+}
